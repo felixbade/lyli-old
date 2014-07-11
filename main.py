@@ -10,4 +10,5 @@ server = LyliServer()
 try:
     server.run()
 except KeyboardInterrupt:
+    print
     server.stop()
