@@ -1,4 +1,4 @@
-lyli
-====
+Lyli-old
+========
 
-Database server software for http://lyli.fi/
+This repository is legacy. Old database server software for http://lyli.fi/
